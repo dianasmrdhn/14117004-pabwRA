@@ -10,5 +10,7 @@ switch ($a) {
     case 2;
         echo '$a sama dengan 2'; 
 		break;
+	default:
+		echo '$a tidak sama dengan 0,1, atau 2';
 }
 ?>

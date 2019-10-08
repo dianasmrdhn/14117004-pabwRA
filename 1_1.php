@@ -4,7 +4,7 @@
 </head>
 <body>
     <?php 
-    $nama = "Kim Taeyung";
+    $nama = "Kim Taehyung";
     echo "$nama berkata \"save me save me\" ";
     ?>
 </body>
