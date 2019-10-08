@@ -8,6 +8,7 @@ switch ($a) {
         echo '$a sama dengan 1';
         break;
     case 2;
-        echo '$a sama dengan 2';   
+        echo '$a sama dengan 2'; 
+		break;
 }
 ?>
