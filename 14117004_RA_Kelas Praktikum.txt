@@ -1,0 +1,4 @@
+Nama                            =   Dian Asmara Dahana
+NIM                             =   14117004
+Kelas Asli                      =   RA
+Kelas Praktikum (pindah jadwal) =   RC (Selasa jam 13.00-14.40) 
